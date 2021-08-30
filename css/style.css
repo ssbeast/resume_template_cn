@@ -251,11 +251,11 @@ section:nth-child(2n + 1) {
 }
 
 .timeline-box:nth-child(2n+1)::after {
-    right: -11.8%;
+    right: -12.1%;
 }
 
 .timeline-box:nth-child(2n)::after {
-    left: -8.5%;
+    left: -8.4%;
 }
 
 .timeline-container {
