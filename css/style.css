@@ -164,7 +164,7 @@ section:nth-child(2n + 1) {
     height: 12rem;
     width: 12rem;
     margin: auto;
-    margin-top: -17vh;
+    margin-top: -10vh;
 }
 
 #my-image img {
@@ -380,7 +380,7 @@ section:nth-child(2n + 1) {
 
 #contact {
     background-color: #0abcf9;
-    background-image: linear-gradient(50deg, #2857a4 0%, #403066 74%);
+    background-image: linear-gradient(50deg, #020202 0%, #767679 100%);
     color: white;
     padding-bottom: 40px;
 }
