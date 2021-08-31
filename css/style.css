@@ -88,7 +88,7 @@ body::-webkit-scrollbar {
 }
 
 .nav-menu li a:hover {
-    color: white;
+    color: gray;
     border-bottom: 1px solid black;
 }
 
@@ -619,6 +619,17 @@ button:focus {
     #contact-form-container {
         width: 80%;
         margin: 10%;
+    }
+
+    .no-list-style li a{
+        list-style: none;
+        color: black;
+        text-decoration: none;
+    }
+
+    .nav-menu li a:hover {
+        color: gray;
+        border-bottom: 1px solid black;
     }
 
 }
